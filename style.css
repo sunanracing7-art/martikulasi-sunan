@@ -1,0 +1,22 @@
+    nav{
+        background-color: rgb(26, 27, 27)
+    }
+    a{
+        color: white(159, 55, 219);
+        text-decoration: none;
+        margin: 0 15px;
+        font-weight: 500;
+        transition: 0.3s;
+        color: rgb(255, 255, 255);
+        background-color: rgb(26, 27, 27)
+    }
+    body{
+        background-color: gray
+    }
+    p{
+        text-align: center;
+    }
+    h1{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
